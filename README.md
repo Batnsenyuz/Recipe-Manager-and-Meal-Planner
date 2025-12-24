@@ -29,7 +29,7 @@ The Recipe Manager and Meal Planner is architected as a modular system that emph
 
 ### UML Class Diagram
 
-![image.png](Recipe%20Manager%20and%20Meal%20Planner/image.png)
+![image.png](/image.png)
 
 ---
 
